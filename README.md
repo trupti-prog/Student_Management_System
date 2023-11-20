@@ -26,3 +26,4 @@ d. Beautiful Soup(bs4)
 ![Screenshot (47)](https://github.com/trupti-prog/Student_Management_System/assets/62563845/ca94bd15-21ce-4552-8cdf-c8c2fe430db4)
 
 ![Screenshot (48)](https://github.com/trupti-prog/Student_Management_System/assets/62563845/b1077464-0af4-4fe3-826b-7e6f03408a8c)
+
